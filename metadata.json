@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Control de Fallas y Asistencias",
+  "description": "Plataforma académica integral para gestión de cursos, estudiantes, registro manual y por escaneo de fallas, cálculo de alertas al 50% y reportes en PDF y Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

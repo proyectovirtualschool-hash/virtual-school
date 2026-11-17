@@ -1,0 +1,74 @@
+{
+  "fileName": "planilla-demo.png",
+  "synthetic": true,
+  "note": "Planilla generada artificialmente. No contiene datos personales reales.",
+  "expected": {
+    "date": "2026-11-10",
+    "course": "Grado 10°A",
+    "subject": "Matemáticas",
+    "hours": 2,
+    "teacher": "Lic. Carlos Pérez",
+    "rows": [
+      {
+        "studentName": "Ana María Gómez",
+        "document": "1001",
+        "status": "presente",
+        "mark": "✓"
+      },
+      {
+        "studentName": "Juan Carlos Pérez",
+        "document": "1002",
+        "status": "falla",
+        "mark": "X"
+      },
+      {
+        "studentName": "Laura Sofía Ramírez",
+        "document": "1003",
+        "status": "retardo",
+        "mark": "R"
+      },
+      {
+        "studentName": "Pedro Antonio López",
+        "document": "1004",
+        "status": "justificada",
+        "mark": "J"
+      },
+      {
+        "studentName": "María Fernanda Torres",
+        "document": "1005",
+        "status": "presente",
+        "mark": "✓"
+      },
+      {
+        "studentName": "Andrés Felipe Rojas",
+        "document": "1006",
+        "status": "falla",
+        "mark": "X"
+      },
+      {
+        "studentName": "Camila Andrea Díaz",
+        "document": "1007",
+        "status": "presente",
+        "mark": "✓"
+      },
+      {
+        "studentName": "Santiago Herrera",
+        "document": "1008",
+        "status": "sin_definir",
+        "mark": ""
+      }
+    ],
+    "omitted": [
+      {
+        "studentName": "Valentina Castro",
+        "document": "1009",
+        "status": "sin_definir"
+      },
+      {
+        "studentName": "Sebastián Morales",
+        "document": "1010",
+        "status": "sin_definir"
+      }
+    ]
+  }
+}
